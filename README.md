@@ -6,7 +6,7 @@ I made a playground to make the process of learning part of calculus knowledge e
 
 ## page 1
 
-Let's start with the car. As we all know, if you want to predict the position of a car, you need to know its speed. Then, if you know the derivative of a function, you can figure out how an equation is changing at any moment. The velocity is equal to the change in your position divided by the change in time, so we’d call velocity the derivative of position. You can write the derivative as f’(x) or y’.
+Let's start with the car. As we all know, if you want to predict the position of a car, you need to know its speed. Then, if you know the derivative of a function, you can figure out how an equation is changing at any moment. The velocity is equal to the change in your position divided by the change in time, so we’d call velocity the derivative of position. You can write the derivative as f’(x) or y’.
 
 When you need to request the velocity of a car：
 
@@ -16,7 +16,7 @@ When you need to request the derivative of a function：
 
 > y’ = dy / dx
 
-The "dt" is an infinitely tiny interval of time, and the "ds"􏰧􏰨􏰩􏰪 is an infinitely tiny interval of position. Why do they need to be so tiny? Because the closer the time is to the present, the more accurate our prediction is. For example, you can know what you are doing next second, but you don’t know what you are doing next month.
+The "dt" is an infinitely tiny interval of time, and the "ds"  is an infinitely tiny interval of position. Why do they need to be so tiny? Because the closer the time is to the present, the more accurate our prediction is. For example, you can know what you are doing next second, but you don’t know what you are doing next month.
 
 ## page 2
 
