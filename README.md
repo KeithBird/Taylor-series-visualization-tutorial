@@ -1,8 +1,6 @@
-# Introduction
+## Introduction
 
 I made a playground to make the process of learning part of calculus knowledge easier and have more fun. I used simple and efficient SwiftUI to visualize the mathematical principles. With a declarative Swift syntax that's natural to write, SwiftUI keeps my code easy to read. Automatic support for Dynamic Type makes it easier for me to change the view based on user input. Some functions that SwiftUI does not have can also be realized by interfacing with UIKit.
-
-# From the car to the Taylor series
 
 ## page 1
 
